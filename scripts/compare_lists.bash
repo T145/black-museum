@@ -12,13 +12,9 @@ CACHE=$(mktemp -d)
 readonly CACHE
 trap 'rm -rf "$CACHE"' EXIT || exit 1
 
-# params: download utility, url
+# params: url
 download_list() {
-    case "$1" in
-    CURL) curl --proto '=https' --tlsv1.3 -sSf "$2" ;;
-    LYNX) lynx -dump -listonly -nonumbers "$2" ;;
-    *) ;;
-    esac
+    curl --proto '=https' --tlsv1.3 -sSf "$1"
 }
 
 # params: filter
@@ -50,12 +46,12 @@ compare_lists() {
 main() {
     # "data/lists.json" is a mandatory requirement
     mkdir -p imports exports
-    download_list 'CURL' 'https://raw.githubusercontent.com/T145/black-mirror/master/exports/sources.txt' > data/master.txt
+    download_list 'https://raw.githubusercontent.com/T145/black-mirror/master/exports/sources.txt' > data/master.txt
     :> exports/results.txt
 
-    jq -r '.[] | "\(.downloader)#\(.url)#\(.filter)"' data/lists.json |
-    while IFS='#' read -r downloader url filter; do
-        download_list "$downloader" "$url" | apply_filter "$filter"
+    jq -r '.[] | "\(.url)#\(.filter)"' data/lists.json |
+    while IFS='#' read -r url filter; do
+        download_list "$url" | apply_filter "$filter"
         compare_lists "$filter"
     done
 }

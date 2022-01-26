@@ -1,22 +1,18 @@
 [
     {
         "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/sources/sources.json",
-        "downloader": "CURL",
         "filter": "ENERGIZED"
     },
     {
         "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/readmeData.json",
-        "downloader": "CURL",
         "filter": "STEVENBLACK"
     },
     {
         "url": "https://oisd.nl/knownlists.php",
-        "downloader": "CURL",
         "filter": "OISD"
     },
     {
         "url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/-data/lists/assets.txt",
-        "downloader": "CURL",
         "filter": "1HOSTS"
     }
 ]
