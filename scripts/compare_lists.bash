@@ -53,7 +53,7 @@ main() {
     download_list 'CURL' 'https://raw.githubusercontent.com/T145/black-mirror/master/exports/sources.txt' > data/master.txt
     :> exports/results.txt
 
-    jq -r '.[] | "\(.downloader) #\(.url)#\(.filter)"' data/lists.json |
+    jq -r '.[] | "\(.downloader)#\(.url)#\(.filter)"' data/lists.json |
     while IFS='#' read -r downloader url filter; do
         download_list "$downloader" "$url" | apply_filter "$filter"
         compare_lists "$filter"
