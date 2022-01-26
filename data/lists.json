@@ -1,0 +1,18 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/sources/sources.json",
+        "filter": "ENERGIZED"
+    },
+    {
+        "url": "https://github.com/StevenBlack/hosts/blob/master/readmeData.json",
+        "filter": "STEVENBLACK"
+    },
+    {
+        "url": "https://oisd.nl/includedlists",
+        "filter": "OISD"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/-data/lists/assets.txt",
+        "filter": "1HOSTS"
+    }
+]
