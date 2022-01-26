@@ -1,0 +1,27 @@
+name: Compare Lists
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * */3"
+
+jobs:
+  update:
+    runs-on: ubuntu-20.04
+    container:
+      image: ghcr.io/t145/black-mirror:latest
+      credentials:
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@master
+      - name: Compare Lists
+        run: |
+          chmod 755 -R scripts/
+          ./scripts/compare_lists.bash
+        shell: bash
+      - name: Commit Lists
+        if: success()
+        uses: stefanzweifel/git-auto-commit-action@v4.13.1
+        with:
+          commit_message: ✨🍰✨
