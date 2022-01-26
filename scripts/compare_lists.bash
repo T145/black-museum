@@ -44,12 +44,14 @@ compare_lists() {
     full_count=$(wc -l <"imports/${1,,}.txt")
     result=$(echo "scale=2; r=$partial_count/$full_count; r*=100; r-=100; r*=-1; r" | bc)
 
-    echo "${1,,}: ${result}%"
+    echo "${1,,}: ${result}%" >> exports/results.txt
 }
 
 main() {
+    # "data/lists.json" is a mandatory requirement
+    mkdir -p imports exports
     download_list 'CURL' 'https://raw.githubusercontent.com/T145/black-mirror/master/exports/sources.txt' > data/master.txt
-    mkdir -p imports
+    :> exports/results.txt
 
     jq -r '.[] | "\(.downloader) #\(.url)#\(.filter)"' data/lists.json |
     while IFS='#' read -r downloader url filter; do
