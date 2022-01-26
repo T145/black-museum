@@ -14,5 +14,9 @@
     {
         "url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/-data/lists/assets.txt",
         "filter": "1HOSTS"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/filter_list_URLs.txt",
+        "filter": "HL2GUIDE"
     }
 ]
