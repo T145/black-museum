@@ -15,12 +15,9 @@ trap 'rm -rf "$CACHE"' EXIT || exit 1
 # params: download utility, url
 download_list() {
     case "$1" in
-    CURL) curl --proto '=https' --tlsv1.3 -H 'Accept: application/vnd.github.v3+json' -sSf "$2" ;;
+    CURL) curl --proto '=https' --tlsv1.3 -sSf "$2" ;;
     LYNX) lynx -dump -listonly -nonumbers "$2" ;;
-    *)
-        echo '[ERROR] Undesignated download utility!'
-        exit 1
-        ;;
+    *) ;;
     esac
 }
 
@@ -30,22 +27,35 @@ apply_filter() {
     ENERGIZED) jq -r '.sources[].url' ;;
     STEVENBLACK) jq -r 'to_entries[] | .value.sourcesdata[].url' ;;
     OISD) cat -s ;;
-    1HOSTS) cat -s ;;
-    *)
-        echo '[ERROR] No filter given!'
-        ;;
+    1HOSTS) mawk '$0~/^http/' ;;
+    *) ;;
     esac |
         parsort -u -S 100% --parallel=48 -T "$CACHE" |
         sponge "imports/${1,,}.txt"
 }
 
+# params: filter
+compare_lists() {
+    local partial_count
+    local full_count
+    local result
+
+    partial_count=$(grep -Fxvf data/master.txt "imports/${1,,}.txt" | wc -l)
+    full_count=$(wc -l <"imports/${1,,}.txt")
+    result=$(echo "scale=2; r=$partial_count/$full_count; r*=100; r-=100; r*=-1; r" | bc)
+
+    echo "${1,,}: ${result}%"
+}
+
 main() {
+    download_list 'CURL' 'https://raw.githubusercontent.com/T145/black-mirror/master/exports/sources.txt' > data/master.txt
     mkdir -p imports
 
-    jq -r '.[] | "\(.downloader)#\(.url)#\(.filter)"' data/lists.json |
-        while IFS='#' read -r downloader url filter; do
-            download_list "$downloader" "$url" | apply_filter "$filter"
-        done
+    jq -r '.[] | "\(.downloader) #\(.url)#\(.filter)"' data/lists.json |
+    while IFS='#' read -r downloader url filter; do
+        download_list "$downloader" "$url" | apply_filter "$filter"
+        compare_lists "$filter"
+    done
 }
 
 main
