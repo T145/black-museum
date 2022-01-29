@@ -22,9 +22,8 @@ apply_filter() {
     case "$1" in
     ENERGIZED) jq -r '.sources[].url' ;;
     STEVENBLACK) jq -r 'to_entries[] | .value.sourcesdata[].url' ;;
-    OISD) cat -s ;;
     1HOSTS) mawk '$0~/^http/' ;;
-    *) ;;
+    *) cat -s ;;
     esac |
         parsort -u -S 100% --parallel=48 -T "$CACHE" |
         sponge "imports/${1,,}.txt"
