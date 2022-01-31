@@ -3748,6 +3748,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/biskvit.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/bitpaymer.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/bitrat.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/blackcat.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/blackkingdom.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/blackmatter.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/blackmoon.txt
@@ -3865,6 +3866,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/darkwatchman.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/darkweb.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/dcrat.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/deadbolt.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/defray.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/defru.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/deftloader.txt
@@ -4060,6 +4062,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/goomba.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/gootkit.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/grand.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/grandamisha.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/grandoreiro.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/gravityrat.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/greamerat.txt
