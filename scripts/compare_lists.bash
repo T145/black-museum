@@ -23,6 +23,7 @@ apply_filter() {
     ENERGIZED) jq -r '.sources[].url' ;;
     STEVENBLACK) jq -r 'to_entries[] | .value.sourcesdata[].url' ;;
     1HOSTS) mawk '$0~/^http/' ;;
+    SHERIFF53_THIRD_PARTY) jq -r '.[] | "\(.url[])", "\(select(.mirror) | .mirror[])"' ;;
     *) cat -s ;;
     esac |
         parsort -u -S 100% --parallel=48 -T "$CACHE" |

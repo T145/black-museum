@@ -18,5 +18,9 @@
     {
         "url": "https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/filter_list_URLs.txt",
         "filter": "HL2GUIDE"
+    },
+    {
+        "url": "https://notabug.org/phronimon/ListsRegistry/raw/master/assests/third_party.json",
+        "filter": "SHERIFF53_THIRD_PARTY"
     }
 ]
