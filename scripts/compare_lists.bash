@@ -14,7 +14,7 @@ trap 'rm -rf "$CACHE"' EXIT || exit 1
 
 # params: url
 download_list() {
-    curl --proto '=https' --tlsv1.3 -sSf "$1"
+    curl --proto '=https' -sSf "$1"
 }
 
 # params: filter
