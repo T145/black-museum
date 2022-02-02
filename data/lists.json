@@ -22,5 +22,9 @@
     {
         "url": "https://notabug.org/phronimon/ListsRegistry/raw/master/assests/third_party.json",
         "filter": "SHERIFF53_THIRD_PARTY"
+    },
+    {
+        "url": "https://dnsforfamily.com/Public/blacklist.txt",
+        "filter": "DNS_FOR_FAMILY"
     }
 ]
