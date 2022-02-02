@@ -1906,6 +1906,7 @@ https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/DevAbanoub/AdBlock_Site_Lists/master/malware.txt
 https://raw.githubusercontent.com/Disturs/losty/master/Mobile.txt
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Guard/Advertising.list
+https://raw.githubusercontent.com/Dogino/Discord-Phishing-URLs/main/pihole-phishing-adlist.txt
 https://raw.githubusercontent.com/DriffeX/MIUI-v5-extra-MiOne/master/device/mione_plus/system/etc/hosts
 https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
 https://raw.githubusercontent.com/ElCap1tan/PiHole-Parsed-Filter-Lists/master/lists/abpindo.host
