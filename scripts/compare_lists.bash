@@ -24,7 +24,7 @@ apply_filter() {
     STEVENBLACK) jq -r 'to_entries[] | .value.sourcesdata[].url' ;;
     1HOSTS) mawk '$0~/^http/' ;;
     SHERIFF53_THIRD_PARTY) jq -r '.[] | "\(.url[])", "\(select(.mirror) | .mirror[])"' ;;
-    DNS_FOR_FAMILY) mawk '$0~/^[/{print $2}' ;;
+    DNS_FOR_FAMILY) mawk '$0~/^\[/{print $2}' ;;
     *) cat -s ;;
     esac |
         parsort -u -S 100% --parallel=48 -T "$CACHE" |
