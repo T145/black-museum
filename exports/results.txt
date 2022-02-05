@@ -1,7 +1,7 @@
 energized: 8.00%
 stevenblack: 40.00%
 oisd: 3.00%
-1hosts: 14.00%
+1hosts: 10.00%
 hl2guide: 9.00%
-sheriff53_third_party: 25.00%
+sheriff53_third_party: 21.00%
 dns_for_family: 0%
