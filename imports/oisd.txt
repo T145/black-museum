@@ -1268,6 +1268,7 @@ https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser_UBO.txt
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_optional.txt
 https://gitlab.com/andryou/block/raw/master/senpai-strict-compressed-domains
+https://gitlab.com/cmiksche/blacklists/-/raw/master/hosts
 https://gitlab.com/curben/phishing-filter/raw/master/dist/phishing-filter-ag.txt
 https://gitlab.com/curben/phishing-filter/raw/master/dist/phishing-filter-agh.txt
 https://gitlab.com/curben/phishing-filter/raw/master/dist/phishing-filter-bind.conf
