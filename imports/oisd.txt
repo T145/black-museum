@@ -306,6 +306,7 @@ https://assets.windscribe.com/custom_blocklists/clickbait.txt
 https://ayashige.herokuapp.com/api/v1/domains/
 https://azorult-tracker.net/api/list/domain?format=plain
 https://b1nary.tk/b/hosts/latest
+https://badmojr.github.io/1Hosts/Lite/domains.txt
 https://badmojr.github.io/1Hosts/Pro/domains.txt
 https://badmojr.github.io/1Hosts/Pro/wildcards.txt
 https://badmojr.github.io/1Hosts/mini/domains.txt
@@ -504,6 +505,7 @@ https://curben.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names-on
 https://curben.gitlab.io/malware-filter/urlhaus-filter-online.tpl
 https://curben.gitlab.io/malware-filter/urlhaus-filter-rpz-online.conf
 https://curben.gitlab.io/phishing-filter-mirror/phishing-filter-agh.txt
+https://curben.gitlab.io/phishing-filter-mirror/phishing-filter-domains.txt
 https://curben.gitlab.io/phishing-filter-mirror/phishing-filter.tpl
 https://cybercrime-tracker.net/all.php
 https://cyborgtrees.com/files/hosts.txt
@@ -1195,6 +1197,7 @@ https://github.com/yous/YousList/raw/master/youslist.txt
 https://github.com/ziozzang/adguard/raw/master/filter.txt
 https://github.com/zznidar/BAR/raw/master/BAR-list
 https://gitlab.awesome-it.de/upstream/athenapdf/raw/1fc5ef4db145cae1afbbeb4054fa2fe65e352ab0/weaver/conf/hosts
+https://gitlab.com/-/snippets/2174337/raw/main/mylobot-c2.txt
 https://gitlab.com/ABPindo/indonesianadblockrules/raw/master/subscriptions/abpindo.txt
 https://gitlab.com/CHEF-KOCH/CKs-FilterList/raw/master/Anti-Corp/Spotify/Spotify-AdBlock.txt
 https://gitlab.com/CHEF-KOCH/CKs-FilterList/raw/master/Anti-Corp/filters/skype.txt
@@ -1312,6 +1315,9 @@ https://gitlab.com/m0ze1r/Pihole-Blocklist/-/raw/master/AD-Tracking.txt
 https://gitlab.com/m0ze1r/Pihole-Blocklist/raw/master/AD-Tracking.txt
 https://gitlab.com/my-privacy-dns/matrix/matrix/-/raw/master/source/tracking/domains.list
 https://gitlab.com/my-privacy-dns/matrix/matrix/raw/master/source/tracking/domains.list
+https://gitlab.com/nitrohorse/government-malware-domains-blocklist/-/raw/master/domains.txt
+https://gitlab.com/nitrohorse/personal-spam-domains-blocklist/-/raw/master/domains.txt
+https://gitlab.com/nitrohorse/scamclub-domains-blocklist/-/raw/master/domains.txt
 https://gitlab.com/nobodysu/spyware-hosts/-/raw/master/lists/android-basic.txt
 https://gitlab.com/nobodysu/spyware-hosts/-/raw/master/lists/any-basic.txt
 https://gitlab.com/nobodysu/spyware-hosts/-/raw/master/lists/unity-all.txt
@@ -1421,6 +1427,7 @@ https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
 https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt
 https://k-lfa.info/content/images/blacklist.conf
 https://kriskintel.com/feeds/ktip_covid_domains.txt
+https://kriskintel.com/feeds/ktip_malicious_domains.txt
 https://kriskintel.com/feeds/ktip_ransomware_feeds.txt
 https://lab.deep.bg/hosts.txt
 https://list.kwbt.de/kwbtlist.txt
@@ -1619,6 +1626,7 @@ https://pastebin.com/raw/jFjdr8q6
 https://pastebin.com/raw/janjH607
 https://pastebin.com/raw/kk0eWJJT
 https://pastebin.com/raw/m9h3J4f4
+https://pastebin.com/raw/mv7CpKPM
 https://pastebin.com/raw/nYWyeepE
 https://pastebin.com/raw/p5kjV8wX
 https://pastebin.com/raw/pVCxFzmF
@@ -1812,7 +1820,11 @@ https://raw.githubusercontent.com/AmnestyTech/investigations/master/2019-08-16_e
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2019-10-10_nso_morocco/domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2020-03-12_uzbekistan/domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2020-06-15_india/domains.txt
+https://raw.githubusercontent.com/AmnestyTech/investigations/master/2020-09-25_finfisher/domains.txt
+https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-02-24_vietnam/indicators/domains.txt
+https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-05-28_qatar/domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/domains.txt
+https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-10-07_donot/domains.txt
 https://raw.githubusercontent.com/AnXh3L0/blocklist/master/albanian-easylist-addition/Albania.txt
 https://raw.githubusercontent.com/Ar0xA/USG-DNS-ADBLOCK/master/youtube-google.txt
 https://raw.githubusercontent.com/BPower0036/AdBlockFilters/main/my%20filters
@@ -2140,6 +2152,7 @@ https://raw.githubusercontent.com/PranavMaddula/PiHole/master/CustomBL.txt
 https://raw.githubusercontent.com/QuantumWarpCode/EloCleanWebFilter/master/filter.txt
 https://raw.githubusercontent.com/QuickBox/QB/master/setup/templates/hostsTrackers.template
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Corona-Blocklist
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/DomainSquatting
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
@@ -2158,6 +2171,8 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/proxies
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
+https://raw.githubusercontent.com/RPiList/specials/master/dev/DDG-Brave-DisconnectMe
+https://raw.githubusercontent.com/RPiList/specials/master/dev/Exodus-List
 https://raw.githubusercontent.com/RandomAdversary/Macedonian-adBlock-Filters/master/Filters
 https://raw.githubusercontent.com/Recon/romanian-media-propaganda-adblock-list/master/ro-media-blocklist.txt
 https://raw.githubusercontent.com/ReddestDream/reddestdream.github.io/master/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
@@ -2401,6 +2416,7 @@ https://raw.githubusercontent.com/bambenek/research/main/sunburst/uniq-hostnames
 https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 https://raw.githubusercontent.com/bastiandg/hosts/master/hosts
 https://raw.githubusercontent.com/bcye/Hello-Goodbye/master/filterlist.txt
+https://raw.githubusercontent.com/bcye/Hello-Goodbye/master/pihole.txt
 https://raw.githubusercontent.com/beerisgood/beer_blocklist/main/list
 https://raw.githubusercontent.com/bestpika/abp/master/hosts.txt
 https://raw.githubusercontent.com/betterwebleon/international-list/master/filters.txt
@@ -2453,6 +2469,9 @@ https://raw.githubusercontent.com/blokadaorg/blokadaorg.github.io/master/api/v3/
 https://raw.githubusercontent.com/blokadaorg/blokadaorg.github.io/master/api/v3/canonical/cache/b_adzhosts.txt
 https://raw.githubusercontent.com/blokadaorg/blokadaorg.github.io/master/api/v3/canonical/cache/b_danpollock.txt
 https://raw.githubusercontent.com/blokadaorg/blokadaorg.github.io/master/api/v3/canonical/cache/b_mining.txt
+https://raw.githubusercontent.com/blokadaorg/landing-github-pages/master/blocklists/exodusprivacy/standard/hosts.txt
+https://raw.githubusercontent.com/bloodhunterd/pi-hole-blocklists/master/Baidu.txt
+https://raw.githubusercontent.com/bloodhunterd/pi-hole-blocklists/master/HP.txt
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_desktop-hosts.txt
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_dns-hosts.txt
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_mobile-hosts.txt
@@ -2543,6 +2562,7 @@ https://raw.githubusercontent.com/danielcuthbert/trackers/master/trackers.txt
 https://raw.githubusercontent.com/danielmiessler/SecLists/master/IOCs/kaspersky-careto-domains.txt
 https://raw.githubusercontent.com/darugnaa/dns/master/README.md
 https://raw.githubusercontent.com/dashingdon/blocklists/master/pihole_addonblacklist.txt
+https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.txt
 https://raw.githubusercontent.com/dead-hosts/The-Big-List-of-Hacked-Malware-Web-Sites_git_mitchellkrogza/master/clean.list
 https://raw.githubusercontent.com/deathbybandaid/Universite-Toulouse-Hosts/master/downloaded/adult.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CombinedBlacklists/CombinedBlackLists.txt
@@ -3015,7 +3035,9 @@ https://raw.githubusercontent.com/lixuy/03khost/master/hosts
 https://raw.githubusercontent.com/llacb47/miscfilters/master/antipaywall.txt
 https://raw.githubusercontent.com/llacb47/mischosts/master/apple-telemetry
 https://raw.githubusercontent.com/llacb47/mischosts/master/blacklist
+https://raw.githubusercontent.com/llacb47/mischosts/master/microsoft-telemetry
 https://raw.githubusercontent.com/llacb47/mischosts/master/social/tiktok-block
+https://raw.githubusercontent.com/llacb47/mischosts/master/streaming-hosts
 https://raw.githubusercontent.com/lmingzhi/Surge/master/Surge.conf
 https://raw.githubusercontent.com/logroid/adaway-hosts/master/hosts.txt
 https://raw.githubusercontent.com/loveqqzj/AdGuard/master/Mobile.txt
@@ -3040,6 +3062,7 @@ https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/custom-blockli
 https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/list.txt
 https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_ads.txt
 https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt
+https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/safe_ads.txt
 https://raw.githubusercontent.com/michaeltrimm/hosts-blocking/master/_hosts.txt
 https://raw.githubusercontent.com/michalterbert/pihole_pl/master/hosts.txt.txt
 https://raw.githubusercontent.com/migafgarcia/simplify-blocklist/master/blocklists/KADhosts.txt
@@ -3095,6 +3118,13 @@ https://raw.githubusercontent.com/mrkimo1998/master/master/cfgfiles/hosts
 https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts.txt
 https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts/_telemetry
 https://raw.githubusercontent.com/muhrizki1996/PiHole-AdBlocker-List/master/hosts.txt
+https://raw.githubusercontent.com/mullvad/dns-adblock/main/lists/doh/adblock/AdguardDNS
+https://raw.githubusercontent.com/mullvad/dns-adblock/main/lists/doh/adblock/Admiral
+https://raw.githubusercontent.com/mullvad/dns-adblock/main/lists/doh/adblock/adaway
+https://raw.githubusercontent.com/mullvad/dns-adblock/main/lists/doh/adblock/anudeepND
+https://raw.githubusercontent.com/mullvad/dns-adblock/main/lists/doh/adblock/custom
+https://raw.githubusercontent.com/mullvad/dns-adblock/main/lists/doh/adblock/easylist-adblock
+https://raw.githubusercontent.com/mullvad/dns-adblock/main/lists/doh/adblock/yoyo
 https://raw.githubusercontent.com/multirom/miui-v7-translation-for-nxt/master/precompiled/main/system/etc/hosts
 https://raw.githubusercontent.com/multiverse2011/adawaylist-jp/master/hosts
 https://raw.githubusercontent.com/muxcc/AdsBlockLists/master/aumm.hosts
@@ -3158,6 +3188,7 @@ https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/doubleclick.txt
 https://raw.githubusercontent.com/niladam/rolist-dns/master/rolist-dns-clean.txt
 https://raw.githubusercontent.com/nimasaj/uBOPa/master/uBOPa.txt
+https://raw.githubusercontent.com/nitrohorse/blacklist-covid19-domains/master/domain.txt
 https://raw.githubusercontent.com/nmtrung/FMSF-2.0/master/fmsf_2.0.txt
 https://raw.githubusercontent.com/no-cmyk/Search-Engine-Spam-Blocklist/master/blocklist.txt
 https://raw.githubusercontent.com/no-cmyk/Search-Engine-Spam-Domains-Blocklist/master/blocklist.txt
@@ -3179,6 +3210,7 @@ https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/phishin
 https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/social_networks/domains
 https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/adblock.txt
 https://raw.githubusercontent.com/oleksiig/Squid-BlackList/master/denied_ext.conf
+https://raw.githubusercontent.com/oo12/SMBBB/master/blocklist.txt
 https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
 https://raw.githubusercontent.com/outapzaza/blocklist/master/fingerprintblock.txt
 https://raw.githubusercontent.com/outapzaza/blocklist/master/list.txt
@@ -3268,17 +3300,22 @@ https://raw.githubusercontent.com/rzsykzmxpxzasqxtyxlveeanfu/pi-hole-blacklist/8
 https://raw.githubusercontent.com/rzsykzmxpxzasqxtyxlveeanfu/pi-hole-blacklist/master/blacklist.txt
 https://raw.githubusercontent.com/sa-ki13/jmsf/master/japanese_mobile_site_filter.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-amnenstytech.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certagid.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certego.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-citizenlabs.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-csirt.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-drweb.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-eset.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kaspersky.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malware-traffic.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sentinelone.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sophos.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-tag.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-playbook.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-silverterrier.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-yoroi.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-zscaler.txt
 https://raw.githubusercontent.com/seawhite/pihole-fakenewslist/master/pihole-fakenews-lite.txt
@@ -3287,6 +3324,7 @@ https://raw.githubusercontent.com/semenko/chrome-ad-detection-list/master/33-per
 https://raw.githubusercontent.com/sharad/system/master/ubuntu/etc/hosts
 https://raw.githubusercontent.com/shigalin/Config/master/Quantumult.conf
 https://raw.githubusercontent.com/shounak-de/iblocklist-loader/master/blacklist-domains.txt
+https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
 https://raw.githubusercontent.com/sipp11/th_ad_filters/master/th_list.txt
 https://raw.githubusercontent.com/sjfkai/SurgeConfig/master/ss.config
 https://raw.githubusercontent.com/sk-cat/fluffy-blocklist/main/domains
@@ -3615,6 +3653,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_mercenaryamanda.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_middleeast.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_miniduke.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_modifiedelephant.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_mudcarp.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_muddywater.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_mustangpanda.txt
@@ -3737,6 +3776,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/banwarum.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/barkio.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/barys.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/batloader.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/bayrob.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/bazarloader.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/beamwinhttp.txt
