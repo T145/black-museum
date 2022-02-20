@@ -2442,6 +2442,7 @@ https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
 https://raw.githubusercontent.com/bkrcrc/turk-adlist/master/hosts
 https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts
 https://raw.githubusercontent.com/blchinezu/rolist-hosts/master/hosts
+https://raw.githubusercontent.com/blockingjunkie/blockingjunkie/main/blockjunkie.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/abuse.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt
 https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/abuse-nl.txt
