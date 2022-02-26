@@ -110,6 +110,7 @@ https://github.com/javabean/dnsmasq-antispy/raw/master/dnsmasq.zz-extra-servers-
 https://github.com/jdlingyu/ad-wars/raw/master/hosts
 https://github.com/joaopinto14/PiHole/raw/main/adverts
 https://github.com/kang49/kang49regexblacklistproject/raw/main/blacklist
+https://github.com/lesong/Surge/raw/main/rule/BanProgramAD.list
 https://github.com/lhie1/Rules/raw/master/Auto/REJECT.conf
 https://github.com/mayesidevel/PiHoleLists/raw/master/MiscBlocklist
 https://github.com/meinhimmel/hosts/raw/master/hosts
@@ -142,6 +143,7 @@ https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
 https://github.com/unchartedsky/adguard-kr/raw/master/adguard-kr.txt
 https://github.com/unflac/adFILTER/raw/master/filter.txt
 https://github.com/vokins/ad/raw/main/ad.list
+https://github.com/willianreis89/ADsBlock/raw/master/list.txt
 https://github.com/wrysunny/ad_list/raw/master/adlist.txt
 https://github.com/xOS/Config/raw/Her/Surge/RuleSet/Advertising.list
 https://github.com/xinggsf/Adblock-Plus-Rule/raw/master/rule.txt
