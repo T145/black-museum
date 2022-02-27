@@ -88,6 +88,7 @@ https://github.com/blocktastic/pihole/raw/master/blocktastic.txt
 https://github.com/cchevy/macedonian-pi-hole-blocklist/raw/master/hosts.txt
 https://github.com/craiu/mobiletrackers/raw/master/list.txt
 https://github.com/curutpilek12/adguard-custom-list/raw/main/custom
+https://github.com/damengzhu/banad/raw/main/jiekouAD.txt
 https://github.com/deletescape/noads/raw/master/lists/add-switzerland.txt
 https://github.com/doadin/Pi-Hole-Blocklist/raw/main/block.list
 https://github.com/dreammjow/MyFilters/raw/main/src/filters.txt
@@ -108,6 +109,7 @@ https://github.com/jasirfayas/jBlocklist/raw/master/domains.lst
 https://github.com/javabean/dnsmasq-antispy/raw/master/dnsmasq.ghostery_bugs.conf
 https://github.com/javabean/dnsmasq-antispy/raw/master/dnsmasq.zz-extra-servers-manual.conf
 https://github.com/jdlingyu/ad-wars/raw/master/hosts
+https://github.com/jlonborg/piblacklist/raw/main/blacklist.txt
 https://github.com/joaopinto14/PiHole/raw/main/adverts
 https://github.com/kang49/kang49regexblacklistproject/raw/main/blacklist
 https://github.com/lesong/Surge/raw/main/rule/BanProgramAD.list
@@ -130,6 +132,7 @@ https://github.com/pirat28/IHateTracker/raw/master/iHateTracker.txt
 https://github.com/sa-ki13/jmsf/raw/master/japanese_mobile_site_dns_filter.txt
 https://github.com/saurane/Turkish-Blocklist/raw/master/Blocklist/domains.txt
 https://github.com/scomper/surge-list/raw/master/reject.list
+https://github.com/sirsunknight/QuantumultX/raw/master/Filter/Radical-Advertising
 https://github.com/smed79/blacklist/raw/master/hosts.txt
 https://github.com/soteria-nou/domain-list/archive/master.zip
 https://github.com/stamparm/maltrail/raw/master/trails/static/suspicious/pua.txt
@@ -148,6 +151,7 @@ https://github.com/wrysunny/ad_list/raw/master/adlist.txt
 https://github.com/xOS/Config/raw/Her/Surge/RuleSet/Advertising.list
 https://github.com/xinggsf/Adblock-Plus-Rule/raw/master/rule.txt
 https://github.com/xlimit91/xlimit91-block-list/raw/master/blacklist.txt
+https://github.com/xylagbx/ADBLOCK/raw/master/BLOCK/customadblockdomain.txt
 https://github.com/ziozzang/adguard/raw/master/filter.txt
 https://github.com/zznidar/BAR/raw/master/BAR-list
 https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts
