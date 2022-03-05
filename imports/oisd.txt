@@ -3487,6 +3487,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/android_qdplugin.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/android_raddex.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/android_ransomware.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/android_ratseller.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/android_redalert.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/android_regon.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/android_remotecode.txt
@@ -3550,6 +3551,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_37.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_38.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_aridviper.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_babyshark.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_bahamut.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_barium.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_bisonal.txt
