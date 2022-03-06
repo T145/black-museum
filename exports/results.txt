@@ -1,5 +1,5 @@
-energized: 8.00%
-stevenblack: 40.00%
+energized: 7.00%
+stevenblack: 36.00%
 oisd: 3.00%
 1hosts: 10.00%
 hl2guide: 9.00%
