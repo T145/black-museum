@@ -443,6 +443,7 @@ https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts
 https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/mikrotik.rsc
 https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts
 https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/mikrotik.rsc
+https://cdn.jsdelivr.net/gh/o0HalfLife0o/list@master/ad.txt
 https://cdn.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/adblock-for-dnsmasq.conf
 https://cdn.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-domains.txt
 https://cdn.jsdelivr.net/gh/privacy-protection-tools/anti-AD@master/anti-ad-easylist.txt
@@ -781,8 +782,6 @@ https://fanboy.co.nz/fanboy-vietnam.txt
 https://fanboy.co.nz/israelilist/IsraelList.txt
 https://fanboy.co.nz/r/fanboy-complete.txt
 https://fanboy.co.nz/r/fanboy-ultimate.txt
-https://fiat-tux.fr/hosts05.txt
-https://fiat-tux.fr/hosts07.txt
 https://fiberhost.hu/blacklist_domains.txt
 https://filter.futa.app/280blocker/280blocker_adblock.txt
 https://filter.futa.app/280blocker/280blocker_domain_ag.txt
@@ -3183,7 +3182,12 @@ https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-pr
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/domains.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 https://raw.githubusercontent.com/nvmkpk/SABS/master/standard-package.txt
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-edentw.txt
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-mo.txt
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt
 https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad2.txt
+https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt
 https://raw.githubusercontent.com/ogollemon/BlacklistsPihole/master/streaming-ads
 https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/adult/domains
 https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/gambling/domains
@@ -4506,6 +4510,7 @@ https://raw.githubusercontent.com/zebpalmer/dns_blocklists/master/slim.txt
 https://raw.githubusercontent.com/ziozzang/adguard/master/filter.txt
 https://raw.githubusercontent.com/zxdrive/imouto.host/master/imouto.host.txt
 https://raw.githubusercontent.com/zznidar/BAR/master/BAR-list
+https://raw.iqiq.io/banbendalao/ADgk/master/ADgk.txt
 https://rawcdn.githack.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
 https://rawcdn.githack.com/IDKwhattoputhere/uBlock-Filters-Plus/master/uBlock-Filters-Plus.txt
 https://rawcdn.githack.com/MajkiIT/polish-ads-filter/master/cookies_filters/adblock_cookies.txt
@@ -4776,6 +4781,7 @@ https://www.jaguarforums.com/forum/attachments/s-type-s-type-r-supercharged-v8-x
 https://www.joewein.net/dl/bl/dom-bl-base.txt
 https://www.joewein.net/dl/bl/dom-bl.txt
 https://www.josemariscal.com/downloads/hosts/hosts
+https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall-dns.txt
 https://www.kylehagerty.com/AdblockLists/phishing.txt
 https://www.layers-gedanken.de/wp-content/uploads/2013/01/hosts.txt
 https://www.malekal.com/HOSTS_filtre/HOSTS.txt
