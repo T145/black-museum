@@ -1980,6 +1980,7 @@ https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt
 https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADomains.txt
 https://raw.githubusercontent.com/Firestorrrm/Minimal-Hosts-Blocker/master/etc/MinimalHostsBlocker/minimalhosts.txt
 https://raw.githubusercontent.com/Firestorrrm/Minimal-Hosts-Blocker/master/iosadlist.txt
+https://raw.githubusercontent.com/Fluqzy/AdguardHome/main/lists/blacklist/list.txt
 https://raw.githubusercontent.com/Fluqzy/AdguardHome/main/lists/blacklist/phishing.txt
 https://raw.githubusercontent.com/Flux3PO/BlackList/master/PublicList.txt
 https://raw.githubusercontent.com/FrendoWu/Rocket-Rules/master/Rocket.conf
@@ -2742,6 +2743,7 @@ https://raw.githubusercontent.com/eblocker/eblocker-lists/develop/src/main/resou
 https://raw.githubusercontent.com/eladkarako/hosts/master/_raw__hosts.txt
 https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock.txt
 https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock_anti_annoyances_block.txt
+https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt
 https://raw.githubusercontent.com/enreda81/PiHoleBlockList/master/several.txt
 https://raw.githubusercontent.com/eon01/hostFilter/master/lists/doubleclick-sites
 https://raw.githubusercontent.com/eon01/hostFilter/master/lists/spyware-sites
