@@ -3626,12 +3626,14 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_inkysquid.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_innaput.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_irn2.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_ironhusky.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_irontiger.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_judgmentpanda.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_ke3chang.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_keyboy.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_kimsuky.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_lazarus.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_lazyscripter.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_leafminer.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_longhorn.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_lotusblossom.txt
@@ -3736,6 +3738,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/astrolocker.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/asyncrat.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/athenagorat.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/athenahttp.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/atilla.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/atmos.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/attor.txt
@@ -3843,6 +3846,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/chisbur.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/chthonic.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/ciadoor.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/cinasquel.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/cinobi.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/cirenegrat.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/clientmeshrat.txt
@@ -3855,6 +3859,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/cobaltstrike.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/cobint.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/coderware_ransomware.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/cold.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/collector.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/cometer.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/conficker.txt
@@ -3946,6 +3951,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/dupzom.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/dursg.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/dyreza.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/easypeasy.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/echelon.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/egregor.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/electronbot.txt
@@ -3954,6 +3960,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/elf_amcsh.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/elf_amnesiark.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/elf_asnarok.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/elf_b1txor20.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/elf_bigviktor.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/elf_billgates.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/elf_chalubo.txt
@@ -4070,6 +4077,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/fujinama.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/fynloski.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/fysna.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/gamania.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/gamapos.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/gandcrab.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/gaudox.txt
@@ -4167,6 +4175,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/javali.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/javarat.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/jedobot.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/jester.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/jigsaw.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/jrat.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/jripbot.txt
