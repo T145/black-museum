@@ -2043,6 +2043,7 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/propellerad
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/master/filters/toradvertising-domains.txt
 https://raw.githubusercontent.com/LaurentFough/pihole-youtube-adblock/master/pihole-youtube-adblock.txt
 https://raw.githubusercontent.com/LeeHeap/AdBlock/master/blocklist.txt
+https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/PrivacyShield.txt
 https://raw.githubusercontent.com/Lerist/Go-Hosts/master/hosts-ad
 https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock
 https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockLite
