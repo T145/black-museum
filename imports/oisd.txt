@@ -1133,6 +1133,7 @@ https://github.com/doadin/Pi-Hole-Blocklist/raw/main/block.list
 https://github.com/dreammjow/MyFilters/raw/main/src/filters.txt
 https://github.com/durablenapkin/block/raw/master/streaming.txt
 https://github.com/easylist-thailand/easylist-thailand/raw/master/subscription/easylist-thailand.txt
+https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/blob/main/Google_hostnames_light.txt?raw=true
 https://github.com/faralai/Pihole-Rules/raw/master/Fara-Popups_Head
 https://github.com/faralai/Pihole-Rules/raw/master/Fara-Xiaomi-info
 https://github.com/farrokhi/adblock-iran/raw/master/filter.txt
@@ -2756,7 +2757,6 @@ https://raw.githubusercontent.com/eblocker/eblocker-lists/develop/src/main/resou
 https://raw.githubusercontent.com/eladkarako/hosts/master/_raw__hosts.txt
 https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock.txt
 https://raw.githubusercontent.com/eladkarako/hosts/master/build/hosts_adblock_anti_annoyances_block.txt
-https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt
 https://raw.githubusercontent.com/enreda81/PiHoleBlockList/master/several.txt
 https://raw.githubusercontent.com/eon01/hostFilter/master/lists/doubleclick-sites
 https://raw.githubusercontent.com/eon01/hostFilter/master/lists/spyware-sites
