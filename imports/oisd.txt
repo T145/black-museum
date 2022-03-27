@@ -1386,6 +1386,8 @@ https://hexxiumcreations.github.io/threat-list/hexxiumthreatlist.txt
 https://hg.adblockplus.org/antiadblockfilters/raw-file/tip/antiadblockfilters/antiadblock_russian.txt
 https://hg.adblockplus.org/customfilterlists/raw-file/default/liste_ar-minified.txt
 https://hg.adblockplus.org/easylistitaly/raw-file/tip/easylistitaly/easylistitaly_adservers.txt
+https://hmirror.molinero.dev/mozilla-shavar-advertising/list.txt
+https://hmirror.molinero.dev/mozilla-shavar-analytics/list.txt
 https://hole.cert.pl/domains/domains.txt
 https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt
 https://hostfiles.frogeye.fr/firstparty-only-trackers.txt
@@ -2460,10 +2462,13 @@ https://raw.githubusercontent.com/blokadaorg/blokadaorg.github.io/master/api/v3/
 https://raw.githubusercontent.com/blokadaorg/landing-github-pages/master/blocklists/exodusprivacy/standard/hosts.txt
 https://raw.githubusercontent.com/bloodhunterd/pi-hole-blocklists/master/Baidu.txt
 https://raw.githubusercontent.com/bloodhunterd/pi-hole-blocklists/master/HP.txt
+https://raw.githubusercontent.com/bogachenko/filterlist/main/bogachenkoBL.dns
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_desktop-hosts.txt
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_dns-hosts.txt
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/adguard_mobile-hosts.txt
+https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/disconnect_consolidated.txt
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/easylist_desktop-hosts.txt
+https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ABP2Hosts/piperun-hosts.txt
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/optimized-win-Dual.hosts
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/NoFormatting/optimized-win.hosts
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/combined-final.p2p
@@ -4037,6 +4042,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/elf_torii.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/elf_turla.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/elf_vpnfilter.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/elf_vtflooder.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/elf_xbash.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/elf_xnote.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/elf_xorddos.txt
@@ -4113,6 +4119,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/gh0strat.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/ghost_miner.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/ghostdns.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/ginzo.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/gippers.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/glitchpos.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/globeimposter.txt
@@ -4873,4 +4880,5 @@ https://zerodot1.gitlab.io/CoinBlockerLists/list_optional.txt
 https://zeustracker.abuse.ch/blocklist.php?download=baddomains
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 https://zeustracker.abuse.ch/blocklist.php?download=hostfile
+https://zonefiles.io/f/compromised/domains/full/
 https://zozzle.co.uk/download/standard-package.txt
