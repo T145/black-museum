@@ -249,6 +249,7 @@ https://abl.arapurayil.com/filters/main.txt
 https://abp.tt.codes/rules.txt
 https://abpvn.com/android/abpvn.txt
 https://abpvn.com/filter/abpvn-kAl5bD.txt
+https://abuseme.nl/downloads/doubleclick.txt
 https://adaway.org/hosts.txt
 https://adblock-thai.github.io/thai-ads-filter/subscription.txt
 https://adblock.any.dns.nixnet.xyz/dns-query
@@ -1791,13 +1792,6 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/android.txt
-https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt
-https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/firefox.txt
-https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/issues.txt
-https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/mac.txt
-https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/sensitive.txt
-https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/windows.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_original_trackers.txt
@@ -3111,6 +3105,7 @@ https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/hosts.txt
 https://raw.githubusercontent.com/mmotti/adguard-home-filters/master/filters.txt
 https://raw.githubusercontent.com/monojp/hosts_merge/master/hosts_blacklist.txt
+https://raw.githubusercontent.com/monolit/fuckhosts/main/wot.txt
 https://raw.githubusercontent.com/morpehus/Hosts/master/Hosts
 https://raw.githubusercontent.com/mozfreddyb/b2g-vivisection/master/filesystem-mods/etc/hosts
 https://raw.githubusercontent.com/mozillahispano/nauscopio-filtros/master/filtros.txt
@@ -3221,6 +3216,7 @@ https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/adblock
 https://raw.githubusercontent.com/oleksiig/Squid-BlackList/master/denied_ext.conf
 https://raw.githubusercontent.com/oo12/SMBBB/master/blocklist.txt
 https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
+https://raw.githubusercontent.com/opencoff/unbound-adblock/master/blocklist.txt
 https://raw.githubusercontent.com/outapzaza/blocklist/master/fingerprintblock.txt
 https://raw.githubusercontent.com/outapzaza/blocklist/master/list.txt
 https://raw.githubusercontent.com/outapzaza/blocklist/master/serverblocklist.txt
@@ -4678,6 +4674,7 @@ https://svn.dd-wrt.com/raw-attachment/ticket/6315/adblock.txt
 https://sysctl.org/cameleon/hosts
 https://t1.daumcdn.net/cfile/tistory/999DAC3A5B49FF6215?download
 https://tch3.net/hg-dnsbl/blocklist.txt
+https://texasvaluesaction.org/elaur/laur-hosts/blob/master/laur-hosts.txt
 https://tgc.cloud/downloads/hosts.alive.txt
 https://tgc.cloud/downloads/hosts.txt
 https://tgc.cloud/downloads/iOSAds.txt
