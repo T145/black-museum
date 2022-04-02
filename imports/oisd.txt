@@ -1755,7 +1755,6 @@ https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscrip
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noelemhide.txt
 https://raw.githubusercontent.com/ADsecu/black-domains/master/domain_hosts.txt
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
-https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt
 https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/sections/antiadblock.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/sections/push-notifications.txt
@@ -3317,6 +3316,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kasp
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malware-traffic.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-orangecyber.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-orangelog4shell.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sentinelone.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sophos.txt
@@ -3587,6 +3587,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_bookworm.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_buhtrap.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_calypso.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_carbonspider.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_careto.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_cdt.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_chafer.txt
@@ -3596,6 +3597,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_cloudatlas.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_cobaltdickens.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_codoso.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_coldriver.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_commentcrew.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_copykittens.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_cosmicduke.txt
@@ -3733,7 +3735,11 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_unc2452.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_unc2465.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_unc2529.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_unc3500.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_unc3535.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_unc961.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_unclassified.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_vajraeleph.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_viciouspanda.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_volatilecedar.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/apt_weakestlink.txt
@@ -4052,6 +4058,7 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/escelar.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/esfur.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/eternalrocks.txt
+https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/eternity.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/everest.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/evilbunny.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/malware/evilgrab.txt
