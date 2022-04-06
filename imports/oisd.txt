@@ -3077,6 +3077,7 @@ https://raw.githubusercontent.com/migafgarcia/simplify-blocklist/master/blocklis
 https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking
 https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/ads-tracking-breaking
 https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/malware
+https://raw.githubusercontent.com/miriquidi/dns-block-lists/main/block.txt
 https://raw.githubusercontent.com/missdeer/blocklist/master/toblock-optimized.lst
 https://raw.githubusercontent.com/missdeer/blocklist/master/toblock-without-shorturl-optimized.lst
 https://raw.githubusercontent.com/missdeer/blocklist/master/toblock-without-shorturl.lst
