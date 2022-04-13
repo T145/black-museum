@@ -24,6 +24,7 @@ https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt
 https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt
 https://blog-imgs-84-origin.fc2.com/b/t/o/btonews/block_hosts.txt
 https://blokada.org/blocklists/exodusprivacy/standard/hosts.txt
+https://browser.coccoc.com/js/android_abp_custom_rules_premium.txt
 https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts
 https://cybercrime-tracker.net/ccamgate.php
 https://dbl.oisd.nl/
@@ -50,6 +51,7 @@ https://filtri-dns.ga/filtri.txt
 https://git.herrbischoff.com/trackers/plain/trackers.txt
 https://github.com/2RDLive/Pi-Hole/raw/master/Blacklist.txt
 https://github.com/34730/asd/raw/master/adaway-export
+https://github.com/568475513/secret_domain/raw/master/filter.txt
 https://github.com/AdroitAdorKhan/EnergizedProtection/raw/master/core/hosts
 https://github.com/BlackJack8/iOSAdblockList/raw/master/Regular%20Hosts.txt
 https://github.com/DK-255/Pi-hole-list-1/raw/main/Ads-Blocklist
@@ -60,8 +62,10 @@ https://github.com/DavidTai780/AdGuard-Home-Private-Rules/raw/master/hosts.txt
 https://github.com/DivineEngine/Profiles/raw/master/Quantumult/Filter/Guard/Advertising.list
 https://github.com/Hariharann8175/Indicators-of-Compromise-IOC-/raw/master/Ransomware%20URL's
 https://github.com/JumbomanXDA/host/raw/main/hosts
-https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/raw/master/TOP_EU_US_Ads_Trackers_ABP
+https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/raw/master/EU_US%2Bmost_used_ad_and_tracking_networks
 https://github.com/KurzGedanke/kurzBlock/raw/master/kurzBlock.txt
+https://github.com/MajkiIT/polish-ads-filter/raw/master/polish-adblock-filters/adblock.txt
+https://github.com/MitaZ/Better_Filter/raw/master/Quantumult_X/Filter.list
 https://github.com/MrWaste/Ad-BlockList-2019-08-31/raw/master/Pi-Hole%20BackUps/Black%20List/All%20Server%20Black%20List
 https://github.com/Neo23x0/signature-base/raw/master/iocs/c2-iocs.txt
 https://github.com/Pentanium/ABClientFilters/raw/master/ko/korean.txt
@@ -95,6 +99,9 @@ https://github.com/dreammjow/MyFilters/raw/main/src/filters.txt
 https://github.com/durablenapkin/block/raw/master/streaming.txt
 https://github.com/eEIi0A5L/adblock_filter/archive/master.zip
 https://github.com/easylist-thailand/easylist-thailand/raw/master/subscription/easylist-thailand.txt
+https://github.com/fandagroupofficial/pihole/raw/adlists/add-block-list-ads
+https://github.com/fandagroupofficial/pihole/raw/adlists/add-block-list-log
+https://github.com/fandagroupofficial/pihole/raw/adlists/add-block-list-tracking
 https://github.com/faralai/Pihole-Rules/raw/master/Fara-Popups_Head
 https://github.com/faralai/Pihole-Rules/raw/master/Fara-Xiaomi-info
 https://github.com/farrokhi/adblock-iran/raw/master/filter.txt
@@ -122,12 +129,14 @@ https://github.com/minoplhy/filters/raw/main/Resources/blocked.txt
 https://github.com/monojp/hosts_merge/raw/master/hosts_blacklist.txt
 https://github.com/mtbnunu/ad-blocklist/raw/master/kr-list.txt
 https://github.com/mtxadmin/ublock/raw/master/hosts/_telemetry
+https://github.com/mullvad/dns-adblock/raw/main/lists/doh/adblock/custom
 https://github.com/muxcc/AdsBlockLists/raw/master/aumm.hosts
 https://github.com/nimasaj/uBOPa/raw/master/uBOPa.txt
 https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 https://github.com/olegwukr/polish-privacy-filters/raw/master/adblock.txt
 https://github.com/parseword/nolovia/raw/master/skel/hosts-government-malware.txt
 https://github.com/parseword/nolovia/raw/master/skel/hosts-nolovia.txt
+https://github.com/pathforwardit/BlockList/raw/main/DomainList
 https://github.com/pirat28/IHateTracker/raw/master/iHateTracker.txt
 https://github.com/sa-ki13/jmsf/raw/master/japanese_mobile_site_dns_filter.txt
 https://github.com/saurane/Turkish-Blocklist/raw/master/Blocklist/domains.txt
